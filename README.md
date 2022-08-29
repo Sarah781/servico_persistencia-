@@ -1,4 +1,3 @@
 # servico_persistencia-
 
-commit avaliação
-atualização
+avaliação de ES
